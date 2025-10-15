@@ -1,5 +1,5 @@
 # Predicting-GDP-per-capita-using-Health-and-employment-indicator
-🧠 Project Overview
+##🧠 Project Overview
 
 This project explores how education, healthcare, and employment contribute to a country's economic performance.
 Using a dataset of 191 countries, we predict GDP per Capita based on:
@@ -12,11 +12,11 @@ Unemployment Rate (%)
 
 GDP Growth (% Annual)
 
-🎯 Objective
+##🎯 Objective
 
 To build a regression model that accurately predicts GDP per Capita using socio-economic indicators.
 
-📊 Dataset Information
+## 📊 Dataset Information
 Column	Description
 Country	Name of the country
 Literacy Rate	Percentage of literate population
@@ -39,7 +39,7 @@ Continent	Continent name
 
 📈 Linear Regression & Random Forest Regressor
 
-📂 Project Workflow
+## 📂 Project Workflow
 
 Load & Explore Data
 
@@ -71,7 +71,7 @@ Actual vs Predicted GDP plot
 
 Feature Importance bar chart
 
-📈 Results
+## 📈 Results
 Metric	Score
 R² Score	≈ 0.78 
 MAE	~2000 USD
@@ -84,7 +84,7 @@ High Unemployment → Negative impact on GDP per Capita.
 
 Education and healthcare investments are strong predictors of prosperity.
 
-📊 Visuals
+## 📊 Visuals
 
 You can include screenshots like:
 
@@ -94,9 +94,9 @@ Actual vs Predicted GDP Plot
 
 Feature Importance (Regression Coefficients)
 
-🚀 Next Steps
+## 🚀 Next Steps
 
-Try feature scaling or polynomial regression to improve fit.
+feature scaling or polynomial regression to improve fit.
 
 Add continent-wise analysis dashboards (Streamlit/Power BI).
 
