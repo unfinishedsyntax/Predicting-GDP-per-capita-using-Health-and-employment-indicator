@@ -1,5 +1,5 @@
 # Predicting-GDP-per-capita-using-Health-and-employment-indicator
-##🧠 Project Overview
+## 🧠 Project Overview
 
 This project explores how education, healthcare, and employment contribute to a country's economic performance.
 Using a dataset of 191 countries, we predict GDP per Capita based on:
