@@ -27,7 +27,7 @@ GDP per Capita (Current USD)	Economic output per person
 GDP per Capita Category	Categorical GDP level (Low, Mid, High, etc.)
 Unemployment Rate (%)	Unemployment percentage
 Continent	Continent name
-⚙️ Tools & Libraries Used
+## ⚙️ Tools & Libraries Used
 
 🐍 Python 3.10+
 
